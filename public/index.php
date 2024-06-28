@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="login.css">
-    <title>Ingresa</title>
+    <link rel="stylesheet" href="css/index.css">
+    <title>Ingreso</title>
 </head>
 <body>
     <div class="container">
-        <form action="">
+        <form action="main.php" method="post">
             <div class="logo">
                 <img src="pics/logo.png" alt="">
             </div>
