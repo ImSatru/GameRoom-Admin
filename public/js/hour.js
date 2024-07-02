@@ -5,11 +5,10 @@ function updateClock() {
   const formattedTime = currentTime.toLocaleTimeString([], {
     hour: "2-digit",
     minute: "2-digit",
-    hour12: false, // Formato de 24 horas
+    hour12: false, 
   });
   hourElement.textContent = formattedTime;
 }
 
 updateClock();
-
 setInterval(updateClock, 1000);
