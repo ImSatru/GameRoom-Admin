@@ -10,7 +10,7 @@
 
 <body>
     <div class="container">
-        <form action="index.php" method="POST">
+        <form action="console.php" method="POST">
             <div class="logo">
                 <img src="pics/logo.png" alt="">
             </div>
