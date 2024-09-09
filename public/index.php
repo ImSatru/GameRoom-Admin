@@ -32,7 +32,9 @@
 
 </html>
 
+
 <?php
+/*
 if (isset($_POST['submit'])) {
     require_once __DIR__ . '/../config/conex.php';
 
@@ -63,4 +65,5 @@ if (isset($_POST['submit'])) {
         echo "Por favor, complete todos los campos.";
     }
 }
+*/
 ?>
